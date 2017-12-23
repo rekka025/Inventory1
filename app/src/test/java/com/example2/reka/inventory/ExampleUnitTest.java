@@ -1,4 +1,4 @@
-package com.example.reka.inventory;
+package com.example2.reka.inventory;
 
 import org.junit.Test;
 

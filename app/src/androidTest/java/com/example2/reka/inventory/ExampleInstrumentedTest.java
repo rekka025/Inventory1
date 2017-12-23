@@ -1,4 +1,4 @@
-package com.example.reka.inventory;
+package com.example2.reka.inventory;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
